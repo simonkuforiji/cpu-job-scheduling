@@ -1,6 +1,3 @@
-Introduction to Operating systems
-Group members: Simon, Manou, George
-
 To run this project:
 
 Open the root folder in a terminal and use `npm i` to install the react dependencies
